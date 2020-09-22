@@ -1,0 +1,21 @@
+h1, p {
+  font-family: Lato;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+
+.compare-table.table td{
+  vertical-align: middle;
+}
+
+.double-shadow{
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2), 0 8px 0 -3px #f6f6f6, 0 9px 1px -3px rgba(0, 0, 0, 0.2), 0 16px 0 -6px #f6f6f6, 0 17px 2px -6px rgba(0, 0, 0, 0.2);
+}
+
+.border-left-secondary{
+  border-left: 4px solid #6c757d;
+}

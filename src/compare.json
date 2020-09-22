@@ -1,0 +1,30 @@
+[
+    {
+      "img": "http://react-compare-app.surge.sh/images/Strawberry.png",
+      "id": 1,
+      "itemname": "Item 1",
+      "price": "5 Rs",
+      "name" : "Cherry"
+    },
+    {
+      "img": "http://react-compare-app.surge.sh/images/Nuts.png",
+      "id": 2,
+      "itemname": "Item 2",
+      "price": "10 Rs",
+      "name" : "Strawberry"
+    },
+    {
+      "img": "http://react-compare-app.surge.sh/images/Orange.png",
+      "id": 3,
+      "itemname": "Item 3",
+      "price": "15 Rs",
+      "name" : "Orange"
+    },
+    {
+      "img": "http://react-compare-app.surge.sh/images/Cherry.png",
+      "id": 4,
+      "itemname": "Item 4",
+      "price": "20 Rs",
+      "name" : "Nuts"
+    }
+]
